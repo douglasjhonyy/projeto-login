@@ -16,11 +16,16 @@ body, html {
     background-color: #f72611;
     height: 100vh;
     width: 100vw;
+    
+}
+h1,p{
+    padding: 10px;
 }
 main{
     position: relative;
     height: 100vh;
     width: 100vw;
+    
 }
 section#login{
     position: absolute;
@@ -41,8 +46,10 @@ section#login > div#imagem{
     background-size: cover;
     background-position: left bottom;
     height: 200px;
+    
 }
 section#login > div#formulario{
     display: block;
     padding: 10px;
+    
 }
