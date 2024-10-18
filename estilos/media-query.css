@@ -23,8 +23,8 @@
     }
 }
 
-@media screen and (min-width:992px)
-{
+@media screen and (min-width:992px) {
+
     body{
         background-image: linear-gradient(to top, #3a0404, #f72611);
     }
@@ -50,4 +50,9 @@
     p {
         text-align: center;
         font-size: 1.3em;
+        
+    
+}
+
+
 }
